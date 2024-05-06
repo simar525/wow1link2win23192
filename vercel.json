@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "https://dev.nano.pp.ua/$1"
+ }
+  ]
+}
